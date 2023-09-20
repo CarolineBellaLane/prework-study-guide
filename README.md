@@ -4,7 +4,7 @@ A study guide for course pre-work
 
 ## Description
 
-This Prework Study Guide was created to store information for bootcamp students. There are sections on HTML, Javascript, CSS and Git. This website collates notes from all areas of the course in to one (currently very) concise set of notes. Throught the process I have learned more than I thought I could and I am proud of the result. Now to retain all the information for more than a week or so. Dang memory. 
+This Prework Study Guide was created to store information for bootcamp students. There are sections on HTML, Javascript, CSS and Git. This website collates notes from all areas of the course in to one (currently very) concise set of notes. Throughout the process I have learned more than I thought I could and I am proud of the result. Now to retain all the information for more than a week or so. Dang memory. 
 
 
 ## Table of Contents (Optional)
